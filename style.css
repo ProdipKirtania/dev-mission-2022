@@ -106,3 +106,20 @@ p{
 #skills{
     background: #fff4d6;
 }
+
+
+
+.developer{
+    background-image: url(images/shapes/shape-8.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+
+}
+.developer-img{
+    /* margin-left: 20px; */
+    /* padding-left: 20px; */
+    width: 70%;
+    /* height: 80%; */
+    border-radius: 5%;
+}
