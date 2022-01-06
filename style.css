@@ -62,3 +62,47 @@ p{
     padding: 10px 30px;
     border-radius: 5px;
 }
+
+.goal{
+    display: flex;
+    justify-content: space-between;
+}
+
+.goal-box{
+    width: 33%;
+    height: 450px;
+    margin: 2%;
+    padding: 10px 10px;
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.goal-box:hover{
+    box-shadow: 0 0 10px rgb(250, 196, 221);
+}
+
+.mission-vision-section h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.goal-box h3{
+    font-size: 25px;
+}
+.goal-box img{
+    width: 50%;
+    height: 50%;
+}
+
+#role{
+    background: #edf5f6;
+}
+
+#mission{
+    background: #ffeeee;
+}
+
+#skills{
+    background: #fff4d6;
+}
